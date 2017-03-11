@@ -32,13 +32,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mehanson/react-google-map-grid.git"
+    "url": "git+https://github.com/rainierworks/react-google-map-grid.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mehanson/react-google-map-grid/issues"
+    "url": "https://github.com/rainierworks/react-google-map-grid/issues"
   },
-  "homepage": "https://github.com/mehanson/react-google-map-grid#readme"
+  "homepage": "https://github.com/rainierworks/react-google-map-grid#readme"
 }
